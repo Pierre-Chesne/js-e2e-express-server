@@ -20,10 +20,7 @@ steps:
     npm run build
   displayName: 'npm install and build'
 
-- script : |
-    mocha test --reporter mocha-junit-reporter
-    ls -lisa
-
 - script: |
     npm test
+    ls -lisa
   displayName: 'on finit par un npm test'
