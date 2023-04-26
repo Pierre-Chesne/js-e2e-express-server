@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/demorama-0000/js-e2e-express-server/_apis/build/status%2FPierre-Chesne.js-e2e-express-server?branchName=main)](https://dev.azure.com/demorama-0000/js-e2e-express-server/_build/latest?definitionId=3&branchName=main)
 ---
 page_type: sample
 languages:
